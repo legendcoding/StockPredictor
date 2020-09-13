@@ -1,4 +1,5 @@
 TODOS:
+
 #LSTM Python Stock Market Predictor
 #using pandas, numpy , tensorflow, matplotlib, pandas_datareader, sklearn.preprocessing
 
